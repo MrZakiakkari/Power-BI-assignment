@@ -1,20 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/data,microsoftoffice
-# Edit at https://www.toptal.com/developers/gitignore?templates=data,microsoftoffice
-
-### Data ###
-*.csv
-*.dat
-*.efx
-*.gbr
-*.key
-*.pps
-*.ppt
-*.pptx
-*.sdf
-*.tax2010
-*.vcf
-*.xml
+# Created by https://www.toptal.com/developers/gitignore/api/microsoftoffice
+# Edit at https://www.toptal.com/developers/gitignore?templates=microsoftoffice
 
 ### MicrosoftOffice ###
 *.tmp
@@ -37,4 +23,4 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 
-# End of https://www.toptal.com/developers/gitignore/api/data,microsoftoffice
+# End of https://www.toptal.com/developers/gitignore/api/microsoftoffice
